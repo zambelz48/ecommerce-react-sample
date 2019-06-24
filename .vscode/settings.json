@@ -1,0 +1,3 @@
+{
+  "flow.pathToFlow": "${workSpaceRoot}/node_modules/.bin/flow"
+}
