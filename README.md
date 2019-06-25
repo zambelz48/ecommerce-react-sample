@@ -1,4 +1,10 @@
-# React js starter kit
+## About
+Sample a simple ecommerce web application built using React.js.
 
-## Version
-0.0.1 (Initial)
+## Setup
+
+#### Install dependencies
+Run command `npm install`
+
+#### Run the application
+Run command `npm run dev`
