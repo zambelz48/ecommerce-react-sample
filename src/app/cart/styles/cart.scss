@@ -1,0 +1,34 @@
+.cart-container {
+  margin-top: 30px;
+
+  .table {
+    border: 4px solid #dadada;
+  }
+
+  .thumb-img {
+    width: 60px;
+    border: 4px solid #dadada;
+    margin-right: 20px;
+  }
+
+  .cart-empty {
+    text-align: center;
+  }
+
+  .product-name {
+    font-weight: bold;
+  }
+
+  .input-quantity {
+    width: 80px;
+    height: 40px;
+    text-align: center;
+  }
+
+  .remove-cart-button {
+    background: transparent;
+    border: 1px solid black;
+    font-weight: bold;
+    margin-right: 20px;
+  }
+}
