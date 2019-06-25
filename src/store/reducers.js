@@ -1,7 +1,9 @@
 import { combineReducers } from 'redux'
 
+import productReducers from 'app/product/reducers'
+
 let appReducers = Object.assign({},
-  // TODO: Add application reducer here...
+  productReducers
 )
 
 export default combineReducers(appReducers)

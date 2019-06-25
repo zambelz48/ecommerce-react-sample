@@ -1,0 +1,22 @@
+$borderWeight: 8px;
+$borderStyle: solid;
+$borderColor: #dadada;
+
+.product-container {
+
+  .img-box {
+    width: 100%;
+    border: $borderWeight $borderStyle $borderColor;
+  }
+
+  .product-name {
+    font-weight: bold;
+    margin-bottom: 0 !important;
+  }
+
+  .cart-button {
+    color: #ffffff;
+    background-color: #e0b686;
+    border: none;
+  }
+}
