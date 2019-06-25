@@ -1,3 +1,5 @@
 {
-  "flow.pathToFlow": "${workSpaceRoot}/node_modules/.bin/flow"
+  "flow.pathToFlow": "${workSpaceRoot}/node_modules/.bin/flow",
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false
 }
